@@ -4,6 +4,8 @@ const supportersData = [
   { name: "Tirta", tier: "bronze", ig: "its.skyturtle" },
   { name: "Vior", tier: "bronze", ig: "keerusell" },
   { name: "Minh", tier: "bronze", ig: "p.mihn_003" },
+  { name: "Zahrah", tier: "bronze", ig: "skylar.ra_" },
+  
 ];
 
 function renderSupporters() {
